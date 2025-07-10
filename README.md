@@ -1,11 +1,6 @@
 # MCX (MCPTT, MCVideo, MCData) Wireshark-Dissector
 MCX Wireshark dissector
 
-* Author: Iñigo Ruiz Relloso
-* Email:  iruizr7@gmail.com
-* Contributors: Mikel Ramos (mikel.ramos@ehu.eus), Iñigo García (inigo.garcia@nemergent-solutions.com)
-* Copyright (c) 2018, Nemergent Initiative http://nemergent.com
-
 This MCX dissector is intended to provide supported protocol analyzers with a
 better understanding of the (MCPTT, MCVideo, MCData) protocols designed by 3GPP.
 
